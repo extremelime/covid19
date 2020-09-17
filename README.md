@@ -5,7 +5,7 @@
 ## [Project Website](http://covid.extremelyme.codes)
 
 ### Research Objective
-By analyzing the most recent economic data for the CA Employment Development Department and State of California COVID-19 Health Data, we will seek to understand what effect (if any), county labor force distribution may have on COVID-19 case rates. More specifically we will seek to understand the effect that agricultural employment may have on COVID-19 case rates.
+By analyzing economic data for the CA Employment Development Department and State of California COVID-19 Health Data (March 2020 - July 2020), we will seek to understand what effect (if any), county labor force distribution may have on COVID-19 case rates. More specifically we will seek to understand the effect that agricultural employment may have on COVID-19 case rates.
 
 ## Dataset Sources 
 COVID-19 Data - [ca.gov](https://data.ca.gov/group/covid-19)\
